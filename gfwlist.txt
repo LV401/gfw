@@ -1,0 +1,4 @@
+cn.sparkpool.com:3333
+cn.sparkpool.com:13333
+cn-backup.sparkpool.com:3333
+cn-backup.sparkpool.com:13333
